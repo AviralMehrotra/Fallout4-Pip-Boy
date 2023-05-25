@@ -10,7 +10,6 @@ The Fallout4 Pip-Boy project offers the following features:
 1. **Functional UI**: The project includes a functional user interface that resembles the Pip-Boy interface from Fallout 4. It allows users to navigate through different menus and screens.
 2. **Data Display**: The Pip-Boy UI displays various types of data, such as health status, inventory, quests, maps, and more, just like in the game.
 3. **Interactivity**: Users can interact with the Pip-Boy UI by selecting different options, activating/deactivating features, and performing actions based on the displayed information.
-4. **Customization**: The project provides options for customizing the Pip-Boy's appearance, including color schemes and themes.
 
 ## Usage
 

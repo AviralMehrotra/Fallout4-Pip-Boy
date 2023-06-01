@@ -391,7 +391,6 @@ ul > li.nav-item.active >  a.nav-link{
     margin-right: 100px;
     float: right;
     margin-top: -20px;
-    filter: grayscale(1) sepia(60%) hue-rotate(75deg) saturate(5) brightness(1.2) contrast(1.2);
 }
 
 .special-description{
